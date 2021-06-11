@@ -1,4 +1,4 @@
-# Mann11243.github.it
+# Mann11243.github.io
 How to create repository?
 
 • You can store a variety of projects in GitHub repositories, including open source projects. With open source projects, you can share code to make better, more reliable software. You can use repositories to collaborate with others and track your work. For more information, see "About repositories."
